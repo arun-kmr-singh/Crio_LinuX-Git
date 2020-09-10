@@ -1,0 +1,25 @@
+
+Thu 10 Sep 2020 11:44:17 AM UTC
+MemTotal:       61844824 kB
+MemFree:         8059820 kB
+MemAvailable:   41014096 kB
+
+Thu 10 Sep 2020 11:44:37 AM UTC
+MemTotal:       61844824 kB
+MemFree:         7972440 kB
+MemAvailable:   41288696 kB
+
+Thu 10 Sep 2020 11:44:42 AM UTC
+MemTotal:       61844824 kB
+MemFree:         8117192 kB
+MemAvailable:   41063272 kB
+
+Thu 10 Sep 2020 11:44:45 AM UTC
+MemTotal:       61844824 kB
+MemFree:         8007916 kB
+MemAvailable:   40997700 kB
+
+Thu 10 Sep 2020 11:56:57 AM UTC
+MemTotal:       61844824 kB
+MemFree:        13781944 kB
+MemAvailable:   44487284 kB
