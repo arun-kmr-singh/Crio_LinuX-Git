@@ -1,0 +1,60 @@
+OS Information:
+
+NAME="Ubuntu"
+VERSION="18.04.4 LTS (Bionic Beaver)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 18.04.4 LTS"
+VERSION_ID="18.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=bionic
+UBUNTU_CODENAME=bionic
+
+Machine Info:
+
+Command : uname -a
+
+Linux arun-VirtualBox 5.4.0-47-generic #51~18.04.1-Ubuntu SMP Sat Sep 5 14:35:50 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+
+
+Command for OS Info: cat /etc/os-release
+
+
+
+Command: df -h 
+
+Available Disk Space: 
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.6G     0  1.6G   0% /dev
+tmpfs           327M  1.5M  326M   1% /run
+/dev/sda1        98G  7.5G   86G   9% /
+tmpfs           1.6G   28M  1.6G   2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.6G     0  1.6G   0% /sys/fs/cgroup
+/dev/loop0       15M   15M     0 100% /snap/gnome-characters/399
+/dev/loop3      3.8M  3.8M     0 100% /snap/gnome-system-monitor/127
+/dev/loop1       45M   45M     0 100% /snap/gtk-common-themes/1440
+/dev/loop4      1.0M  1.0M     0 100% /snap/gnome-logs/81
+/dev/loop2       90M   90M     0 100% /snap/core/8268
+/dev/loop5      4.3M  4.3M     0 100% /snap/gnome-calculator/544
+/dev/loop6      161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop7       55M   55M     0 100% /snap/core18/1668
+tmpfs           327M   28K  327M   1% /run/user/121
+tmpfs           327M   48K  327M   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/arun/VBox_GAs_6.1.14
+
+
+Command : vmstat
+
+System memory info:
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0  13836 402524  94488 816388    0    1    45    25  305  663 10  2 87  1  0
+
